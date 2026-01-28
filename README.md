@@ -83,6 +83,8 @@ tweak, or open an issue if you spot a bug or want to collaborate.
   – for the README assets.
 - [Showcase - Tailwind CSS](https://tailwindcss.com/showcase) – for the preview
   image.
+- [eli64s/readme-ai: README file generator, powered by AI.](https://github.com/eli64s/readme-ai)
+  – for the Table of Contents summary.
 
 ## 🌟 Star History
 
