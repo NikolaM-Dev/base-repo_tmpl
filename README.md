@@ -13,10 +13,15 @@
   <a href="https://github.com/NikolaM-Dev/base-repo_tmpl/commits/main/"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/NikolaM-Dev/base-repo_tmpl?style=flat&colorA=32302f&colorB=fe8019"></a>
 </p>
 
-<figure align="center">
-  <img alt="Preview" src="./docs/assets/preview.jpg">
-  <figcaption><i>Preview Caption</i></figcaption>
-</figure>
+<div align="center">
+  <figure>
+    <img alt="Preview" src="./docs/assets/preview.jpg">
+    <br>
+    <figcaption><i>Preview Caption</i></figcaption>
+  </figure>
+</div>
+
+&nbsp;
 
 <details><summary>👉 Table of Contents</summary>
 
