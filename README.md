@@ -6,11 +6,11 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/NikolaM-Dev/base-repose_tmpl/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/NikolaM-Dev/base-repose_tmpl?style=flat&colorA=32302f&colorB=54524c"></a>
-  <a href=href="https://github.com/NikolaM-Dev/base-repose_tmpl/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/NikolaM-Dev/base-repose_tmpl?style=flat&colorA=32302f&colorB=a9b665"></a>
-  <a href="https://github.com/NikolaM-Dev/base-repose_tmpl/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/NikolaM-Dev/base-repose_tmpl?style=flat&colorA=32302f&colorB=d8a657"></a>
-  <a href="https://github.com/NikolaM-Dev/base-repose_tmpl/issues"><img src="https://img.shields.io/github/issues/NikolaM-Dev/base-repose_tmpl?style=flat&colorA=32302f&colorB=ea6062"></a>
-  <a href="https://github.com/NikolaM-Dev/base-repose_tmpl/commits/main/"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/NikolaM-Dev/base-repose_tmpl?style=flat&colorA=32302f&colorB=fe8019"></a>
+  <a href="https://github.com/NikolaM-Dev/base-repo_tmpl/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/NikolaM-Dev/base-repo_tmpl?style=flat&colorA=32302f&colorB=54524c"></a>
+  <a href=href="https://github.com/NikolaM-Dev/base-repo_tmpl/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/NikolaM-Dev/base-repo_tmpl?style=flat&colorA=32302f&colorB=a9b665"></a>
+  <a href="https://github.com/NikolaM-Dev/base-repo_tmpl/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/NikolaM-Dev/base-repo_tmpl?style=flat&colorA=32302f&colorB=d8a657"></a>
+  <a href="https://github.com/NikolaM-Dev/base-repo_tmpl/issues"><img src="https://img.shields.io/github/issues/NikolaM-Dev/base-repo_tmpl?style=flat&colorA=32302f&colorB=ea6062"></a>
+  <a href="https://github.com/NikolaM-Dev/base-repo_tmpl/commits/main/"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/NikolaM-Dev/base-repo_tmpl?style=flat&colorA=32302f&colorB=fe8019"></a>
 </p>
 
 <figure align="center">
@@ -61,8 +61,8 @@
 ### 🏕️ Run Locally
 
 ```bash
-git clone https://github.com/NikolaM-Dev/base-repose_tmpl.git
-cd base-repose_tmpl
+git clone https://github.com/NikolaM-Dev/base-repo_tmpl.git
+cd base-repo_tmpl
 ```
 
 ### 🛣️️ Road-map
