@@ -1,0 +1,4 @@
+# Use npx gitignore to generate .gitignore file
+# For example:
+# npx gitignore <type1> <type2> ...
+# For more information, use: npx gitignore -types
