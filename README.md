@@ -105,5 +105,5 @@ tweak, or open an issue if you spot a bug or want to collaborate.
   <a href="https://x.com/nikolam_dev" target="_blank"><img alt="X (Twitter) Icon" src="https://raw.githubusercontent.com/NikolaM-Dev/base-repo_tmpl/main/docs/assets/twitter-x.svg"></a>
   <a href="https://www.linkedin.com/in/nikolam-dev" target="_blank"><img alt="LinkedIn Icon" src="https://raw.githubusercontent.com/NikolaM-Dev/base-repo_tmpl/main/docs/assets/linkedin.svg"></a>
   <a href="https://github.com/NikolaM-Dev" target="_blank"><img alt="GitHub Icon" src="https://raw.githubusercontent.com/NikolaM-Dev/base-repo_tmpl/main/docs/assets/github.svg"></a>
-  <a href="#top" target="_blank"><img alt="Go to Top Icon" src="https://raw.githubusercontent.com/NikolaM-Dev/base-repo_tmpl/main/docs/assets/top.svg"></a>
+  <a href="#readme" target="_blank"><img alt="Go to Top Icon" src="https://raw.githubusercontent.com/NikolaM-Dev/base-repo_tmpl/main/docs/assets/top.svg"></a>
 </p>
