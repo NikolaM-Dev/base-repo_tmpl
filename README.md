@@ -32,7 +32,7 @@
   - [💡 Challenges / Learnings](#-challenges--learnings)
 - [⚡ Quick Start](#-quick-start)
   - [🏕️ Run Locally](#️-run-locally)
-  - [🛣️️ Road-map](#️️-road-map)
+  - [🛣️️ ROADMAP](#️️-roadmap)
 - [🫂 Acknowledgments](#-acknowledgments)
 - [🌟 Star History](#-star-history)
 
@@ -70,9 +70,9 @@ git clone https://github.com/NikolaM-Dev/base-repo_tmpl.git
 cd base-repo_tmpl
 ```
 
-### 🛣️️ Road-map
+### 🛣️️ ROADMAP
 
-See the [road-map](./docs/ROADMAP.md) for upcoming features, feel free to fork,
+See the [ROADMAP](./ROADMAP.md) for upcoming features, feel free to fork,
 tweak, or open an issue if you spot a bug or want to collaborate.
 
 ## 🫂 Acknowledgments
