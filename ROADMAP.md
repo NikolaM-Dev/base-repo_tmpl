@@ -1,6 +1,6 @@
 # 🛣️️ Road-map
 
-> [👈 Back to README](../README.md)
+> [👈 Back to README](./README.md)
 
 ## 🔥 In Progress
 
