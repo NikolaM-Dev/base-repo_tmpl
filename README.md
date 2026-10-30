@@ -72,8 +72,8 @@ cd base-repo_tmpl
 
 ### 🛣️️ ROADMAP
 
-See the [ROADMAP](./ROADMAP.md) for upcoming features, feel free to fork,
-tweak, or open an issue if you spot a bug or want to collaborate.
+See the [ROADMAP](./ROADMAP.md) for upcoming features, feel free to fork, tweak,
+or open an issue if you spot a bug or want to collaborate.
 
 ## 🫂 Acknowledgments
 
