@@ -13,8 +13,7 @@ Options:
   --target-dir DIR          Where to write README.md (default: .)
   --template FILE           Template to use (default: template/README.template.md
                             relative to this script, else ./template/README.template.md)
-  --no-star-history         Drop the Star History section
-  --preview-url URL         Override {{PREVIEW_URL}} (default: base v1 preview.jpg)
+  --preview-url URL         Override {{PREVIEW_URL}} (default: base v1.0.0 preview.jpg)
   --holder NAME             LICENSE holder (default: git config user.name)
   --year YYYY               LICENSE year (default: current year)
   --help                    Show this help
@@ -25,8 +24,7 @@ OWNER_REPO=""
 BRANCH="main"
 TARGET_DIR="."
 TEMPLATE=""
-NO_STAR=0
-PREVIEW_URL="https://raw.githubusercontent.com/NikolaM-Dev/base-repo_tmpl/v1/docs/assets/preview.jpg"
+PREVIEW_URL="https://raw.githubusercontent.com/NikolaM-Dev/base-repo_tmpl/v1.0.0/docs/assets/preview.jpg"
 HOLDER=""
 YEAR="$(date +%Y)"
 
@@ -47,10 +45,6 @@ while [[ $# -gt 0 ]]; do
   --template)
     TEMPLATE="${2:?}"
     shift 2
-    ;;
-  --no-star-history)
-    NO_STAR=1
-    shift
     ;;
   --preview-url)
     PREVIEW_URL="${2:?}"
@@ -112,18 +106,6 @@ replace "$OUT" "{{OWNER_REPO}}" "$OWNER_REPO"
 replace "$OUT" "{{REPO_NAME}}" "$REPO_NAME"
 replace "$OUT" "{{DEFAULT_BRANCH}}" "$BRANCH"
 replace "$OUT" "{{PREVIEW_URL}}" "$PREVIEW_URL"
-
-if [[ "$NO_STAR" -eq 1 ]]; then
-  python3 - "$OUT" <<'EOF'
-import sys, re
-path = sys.argv[1]
-s = open(path, encoding="utf-8").read()
-# TOC line for Star History goes too.
-s = re.sub(r"- \[🌟 Star History\]\(#-star-history\)\n", "", s)
-s = re.sub(r"<!-- STAR-HISTORY-START -->.*?<!-- STAR-HISTORY-END -->\n?", "", s, flags=re.DOTALL)
-open(path, "w", encoding="utf-8").write(s)
-EOF
-fi
 
 # LICENSE holder update when LICENSE exists next to output.
 if [[ -f "$TARGET_DIR/LICENSE" ]]; then
