@@ -10,7 +10,7 @@
   <a href="https://github.com/{{OWNER_REPO}}/blob/{{DEFAULT_BRANCH}}/LICENSE"><img alt="License" src="https://img.shields.io/github/license/{{OWNER_REPO}}?style=flat&colorA=32302f&colorB=73665b"></a>
   <a href="https://github.com/{{OWNER_REPO}}/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/{{OWNER_REPO}}?style=flat&colorA=32302f&colorB=99af6b"></a>
   <a href="https://github.com/{{OWNER_REPO}}/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/{{OWNER_REPO}}?style=flat&colorA=32302f&colorB=f4a21c"></a>
-  <a href="https://github.com/{{OWNER_REPO}}/issues"><img alt="Issues" src="https://img.shields.io/github/issues/{{OWNER_REPO}}?style=flat&colorA=32302f&colorB=d25780"></a>
+  <a href="https://github.com/{{OWNER_REPO}}/issues"><img alt="Issues" src="https://img.shields.io/github/issues/{{OWNER_REPO}}?style=flat&colorA=32302f&colorB=ea6062"></a>
   <a href="https://github.com/{{OWNER_REPO}}/commits/{{DEFAULT_BRANCH}}/"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/{{OWNER_REPO}}?style=flat&colorA=32302f&colorB=9480ba"></a>
 </p>
 
